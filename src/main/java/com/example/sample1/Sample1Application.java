@@ -10,4 +10,6 @@ public class Sample1Application {
 		SpringApplication.run(Sample1Application.class, args);
 	}
 
+	//master-conflict
+
 }
