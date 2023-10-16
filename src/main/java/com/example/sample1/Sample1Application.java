@@ -15,5 +15,6 @@ public class Sample1Application {
 	}
 
 	//master-conflict
+	//local change-conflict to remote
 
 }
