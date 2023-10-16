@@ -13,6 +13,7 @@ public class Sample1Application {
 		// change in new branch -conflict in main branch
 
 	}
+	//remote change- conflict in local
 
 	//master-conflict
 	//local change-conflict to remote
